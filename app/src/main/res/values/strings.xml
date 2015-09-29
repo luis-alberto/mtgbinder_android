@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mtg Binder</string>
+
+    <string name="empty_binder">Empty Binder</string>
+    <string name="search_empty">No Results</string>
+    <string name="search_card">Search Card</string>
+    <string name="action_settings">Settings</string>
+</resources>
